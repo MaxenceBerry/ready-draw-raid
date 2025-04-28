@@ -2,6 +2,7 @@
   {
     "num": 1,
     "name": "Billy the Kid",
+    "type": "Legend",
     "effect": "Lorem",
     "origin": "American West",
     "cost": "I",
@@ -12,6 +13,7 @@
   {
     "num": 2,
     "name": "Wyatt Earp",
+    "type": "Legend",
     "effect": "ipsum",
     "origin": "American West",
     "cost": "I",
@@ -22,6 +24,7 @@
   {
     "num": 3,
     "name": "Doc Holliday",
+    "type": "Legend",
     "effect": "dolor",
     "origin": "American West",
     "cost": "I",
@@ -32,6 +35,7 @@
   {
     "num": 4,
     "name": "Jesse James",
+    "type": "Legend",
     "effect": "sit",
     "origin": "American West",
     "cost": "I",
@@ -42,6 +46,7 @@
   {
     "num": 5,
     "name": "Buffalo Bill Cody",
+    "type": "Legend",
     "effect": "amet",
     "origin": "American West",
     "cost": "I",
@@ -52,6 +57,7 @@
   {
     "num": 6,
     "name": "Annie Oakley",
+    "type": "Legend",
     "effect": "consectertu",
     "origin": "American West",
     "cost": "I",
@@ -62,6 +68,7 @@
   {
     "num": 7,
     "name": "Calamity Jane",
+    "type": "Legend",
     "effect": "adipiscing",
     "origin": "American West",
     "cost": "I",
@@ -72,6 +79,7 @@
   {
     "num": 8,
     "name": "Davy Crockett",
+    "type": "Legend",
     "effect": "elit",
     "origin": "American West",
     "cost": "I",
@@ -82,6 +90,7 @@
   {
     "num": 9,
     "name": "Butch Cassidy",
+    "type": "Legend",
     "effect": "dsed",
     "origin": "American West",
     "cost": "I",
@@ -92,6 +101,7 @@
   {
     "num": 10,
     "name": "The Sundance Kid",
+    "type": "Legend",
     "effect": "in",
     "origin": "American West",
     "cost": "I",
@@ -102,6 +112,7 @@
   {
     "num": 11,
     "name": "Joaquin Murrieta",
+    "type": "Legend",
     "effect": "urna",
     "origin": "Mexican West",
     "cost": "I",
@@ -112,6 +123,7 @@
   {
     "num": 112,
     "name": "Pancho Villa",
+    "type": "Legend",
     "effect": "et",
     "origin": "Mexican West",
     "cost": "I",
@@ -122,6 +134,7 @@
   {
     "num": 13,
     "name": "Emiliano Zapata",
+    "type": "Legend",
     "effect": "rhoncus",
     "origin": "Mexican West",
     "cost": "I",
@@ -132,6 +145,7 @@
   {
     "num": 14,
     "name": "Tiburcio Vasquez",
+    "type": "Legend",
     "effect": "sapien",
     "origin": "Mexican West",
     "cost": "I",

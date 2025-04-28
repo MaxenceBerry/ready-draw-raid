@@ -1,6 +1,7 @@
 import React from "react";
 import GraveRobbers from "./GraveRobbers";
 import SpinBox from "./SpinBox";
+import FinalCard from "./FinalCard";
 
 import GravRobJSON from "../assets/GravRob.json";
 
@@ -21,15 +22,16 @@ function DisplayCollection({ jsonToImport }: bddManagerProps) {
               <div className="col-sm-6 col-md-3 ratio-4x3">
                 <div className="row">
                   <div className="col-sm-12">
-                    <GraveRobbers
+                    <FinalCard
                       imagePath={pathImageCurrent}
                       nameCard={legend.name}
                       costCard={legend.cost}
                       gritCard={legend.grit}
                       infoCard={legend.summary}
+                      typeCard={legend.type}
                     >
                       {legend.effect}
-                    </GraveRobbers>
+                    </FinalCard>
                   </div>
                   <SpinBox></SpinBox>
                 </div>

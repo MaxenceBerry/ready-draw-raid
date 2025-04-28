@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Handjet&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
+:root {
+  --sky-magenta: #D659ACff;
+  --black-olive: #40473Fff;
+  --platinum: #E4E5E6ff;}
+
 .backgroundCard{
   background-image: url("/images/back_ground_card.png");
   width: 300px;                 /* Or any initial width you prefer */
@@ -85,7 +90,7 @@
          1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;}
         
 
-.imgCardContainer{border: 4px solid black;
+.imgCardContainer{border: 2px solid black;
   margin-left: 1%;
     width: 87%;                
     height: 40%;

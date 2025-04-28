@@ -1,5 +1,4 @@
 import React, { ReactNode } from "react";
-import styles from "./GraveRobbersCards.module.css";
 interface GraveRobbersProps {
   children: ReactNode;
   imagePath: string;

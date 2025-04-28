@@ -1,43 +1,51 @@
-import React from "react";
+import React, { ReactNode } from "react";
 import styles from "./FinalCards.module.css";
 
-function FinalCard() {
+interface GraveRobbersProps {
+  children: ReactNode;
+  imagePath: string;
+  nameCard: string;
+  gritCard: number;
+  costCard: string;
+  infoCard: string;
+  typeCard: string;
+}
+
+function FinalCard({
+  children,
+  imagePath,
+  nameCard,
+  costCard,
+  gritCard,
+  infoCard,
+  typeCard,
+}: GraveRobbersProps) {
   return (
     <div className={styles.backgroundCard}>
       <div className={styles.boxAlign}>
         <div className={styles.typeCard}>
-          <p>Type</p>
+          <p>{typeCard}</p>
         </div>
         <div className={styles.gritCard}>
-          <p>9</p>
+          <p>{gritCard}</p>
         </div>
       </div>
       <div className={styles.imgCardContainer}>
-        <img
-          src="./images/billy-the-kid.jpg"
-          className={styles.imgCard}
-          alt="..."
-        />
+        <img src={imagePath} className={styles.imgCard} alt={nameCard} />
       </div>
       <div className={styles.boxAlign}>
         <div className={styles.costCard}>
-          <p>I</p>
+          <p>{costCard}</p>
         </div>
         <div className={styles.nameCard}>
-          <p>Name</p>
+          <p>{nameCard}</p>
         </div>
       </div>
       <div className={styles.effectCard}>
-        <p>
-          longtgemps je me suis couché de bonne heure. Je ne pensais aps que je
-          pouvais te faire tant de mal
-        </p>
+        <p>{children}</p>
       </div>
       <div className={styles.bottomCard}>
-        <p>
-          A complex figure who was a businessman, gambler, and lawman, most
-          famously involved in the Gunfight at the O.K. Corral.
-        </p>
+        <p>{infoCard}</p>
       </div>
     </div>
   );
