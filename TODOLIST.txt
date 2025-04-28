@@ -1,0 +1,9 @@
+lire le json X
+afficher les données dans un tableau X
+afficher 2 cartes
+    je veux que la partie collection fasse une liste de toutes les cartes qu'on lui donne
+visualisateur de cartes = cartes + selecteur +-
+carte transparentes quand = 0
+
+ouverture booster donne 5 cartes
+Ajouter fait un +1 aux cartes

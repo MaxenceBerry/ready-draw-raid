@@ -1,0 +1,104 @@
+
+    [
+      {
+        "name": "Billy the Kid",
+        "summary": "A young outlaw known for his charm and deadly gunfighting skills in the New Mexico Territory.",
+        "origin": "American West"
+      },
+      {
+        "name": "Wyatt Earp",
+        "summary": "A complex figure who was a businessman, gambler, and lawman, most famously involved in the Gunfight at the O.K. Corral.",
+        "origin": "American West"
+      },
+      {
+        "name": "Doc Holliday",
+        "summary": "A dentist turned gambler and gunfighter, known for his loyalty to Wyatt Earp and his quick draw.",
+        "origin": "American West"
+      },
+      {
+        "name": "Jesse James",
+        "summary": "A notorious outlaw who led a gang in robberies across the Midwest and was romanticized as a folk hero.",
+        "origin": "American West"
+      },
+      {
+        "name": "Buffalo Bill Cody",
+        "summary": "A bison hunter, army scout, and showman who popularized the image of the Wild West through his traveling show.",
+        "origin": "American West"
+      },
+      {
+        "name": "Annie Oakley",
+        "summary": "A sharpshooter who gained fame in Buffalo Bill's Wild West show for her incredible marksmanship.",
+        "origin": "American West"
+      },
+      {
+        "name": "Calamity Jane",
+        "summary": "A frontierswoman, known for her adventurous spirit, sharpshooting skills, and association with Wild Bill Hickok.",
+        "origin": "American West"
+      },
+      {
+        "name": "Davy Crockett",
+        "summary": "A frontiersman, hunter, soldier, and politician who became a legendary figure known for his coonskin cap and bravery at the Alamo.",
+        "origin": "American West"
+      },
+      {
+        "name": "Butch Cassidy",
+        "summary": "The charismatic leader of the Wild Bunch gang, known for their train and bank robberies across the West.",
+        "origin": "American West"
+      },
+      {
+        "name": "The Sundance Kid",
+        "summary": "An outlaw and member of Butch Cassidy's Wild Bunch, often depicted as a skilled gunman.",
+        "origin": "American West"
+      },
+      {
+        "name": "Joaquín Murrieta",
+        "summary": "A controversial figure, considered by some a bandit and by others a Mexican resistance hero against Anglo-American oppression in California.",
+        "origin": "Mexican West"
+      },
+      {
+        "name": "La Llorona",
+        "summary": "A legendary weeping woman who is said to roam waterfront areas, mourning the children she drowned.",
+        "origin": "Mexican West"
+      },
+      {
+        "name": "El Charro Negro",
+        "summary": "A feared apparition of a rider dressed in black on a black horse, often associated with deals with the devil.",
+        "origin": "Mexican West"
+      },
+      {
+        "name": "Quetzalcoatl",
+        "summary": "The Aztec feathered serpent god, a central figure in Mesoamerican mythology, credited with bringing knowledge and maize to humankind.",
+        "origin": "Mexican West"
+      },
+      {
+        "name": "La Mulata de Córdoba",
+        "summary": "A mysterious and beautiful woman in colonial Veracruz who was accused of witchcraft and vanished from prison.",
+        "origin": "Mexican West"
+      },
+      {
+        "name": "The Legend of the Volcanoes (Popocatépetl and Iztaccíhuatl)",
+        "summary": "A tragic love story explaining the creation of the two famous volcanoes near Mexico City.",
+        "origin": "Mexican West"
+      },
+      {
+        "name": "Pancho Villa",
+        "summary": "A revolutionary general in the Mexican Revolution, known for his military tactics and raids on the US border.",
+        "origin": "Mexican West"
+      },
+      {
+        "name": "Emiliano Zapata",
+        "summary": "A leading figure in the Mexican Revolution, advocating for the rights of peasants and agrarian reform.",
+        "origin": "Mexican West"
+      },
+      {
+        "name": "Tiburcio Vásquez",
+        "summary": "A California bandit who, like Murrieta, was seen by some as a social bandit resisting American dominance.",
+        "origin": "Mexican West"
+      },
+      {
+        "name": "Our Lady of Guadalupe",
+        "summary": "The Virgin Mary as she appeared in Mexico, a powerful religious and cultural symbol for Mexicans.",
+        "origin": "Mexican West"
+      }
+    ]
+  

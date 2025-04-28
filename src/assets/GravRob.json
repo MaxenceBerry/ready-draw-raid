@@ -1,0 +1,142 @@
+[
+  {
+    "num": 1,
+    "name": "Billy the Kid",
+    "effect": "Lorem",
+    "origin": "American West",
+    "cost": "I",
+    "grit": 4,
+    "illustration": "billy-the-kid.jpg",
+    "summary": "A young outlaw known for his charm and deadly gunfighting skills in the New Mexico Territory."
+  },
+  {
+    "num": 2,
+    "name": "Wyatt Earp",
+    "effect": "ipsum",
+    "origin": "American West",
+    "cost": "I",
+    "grit": 5,
+    "illustration": "Wyatt_Earp_portrait.png",
+    "summary": "A complex figure who was a businessman, gambler, and lawman, most famously involved in the Gunfight at the O.K. Corral."
+  },
+  {
+    "num": 3,
+    "name": "Doc Holliday",
+    "effect": "dolor",
+    "origin": "American West",
+    "cost": "I",
+    "grit": 6,
+    "illustration": "docholiday.jpg",
+    "summary": "A dentist turned gambler and gunfighter, known for his loyalty to Wyatt Earp and his quick draw."
+  },
+  {
+    "num": 4,
+    "name": "Jesse James",
+    "effect": "sit",
+    "origin": "American West",
+    "cost": "I",
+    "grit": 4,
+    "illustration": "Jesse_james_portrait.jpg",
+    "summary": "A notorious outlaw who led a gang in robberies across the Midwest and was romanticized as a folk hero."
+  },
+  {
+    "num": 5,
+    "name": "Buffalo Bill Cody",
+    "effect": "amet",
+    "origin": "American West",
+    "cost": "I",
+    "grit": 5,
+    "illustration": "Cody-Buffalo-Bill-LOC.jpg",
+    "summary": "A bison hunter, army scout, and showman who popularized the image of the Wild West through his traveling show."
+  },
+  {
+    "num": 6,
+    "name": "Annie Oakley",
+    "effect": "consectertu",
+    "origin": "American West",
+    "cost": "I",
+    "grit": 6,
+    "illustration": "annieoakley.jpg",
+    "summary": "A sharpshooter who gained fame in Buffalo Bill's Wild West show for her incredible marksmanship."
+  },
+  {
+    "num": 7,
+    "name": "Calamity Jane",
+    "effect": "adipiscing",
+    "origin": "American West",
+    "cost": "I",
+    "grit": 4,
+    "illustration": "calamity_jane.jpg",
+    "summary": "A frontierswoman, known for her adventurous spirit, sharpshooting skills, and association with Wild Bill Hickok."
+  },
+  {
+    "num": 8,
+    "name": "Davy Crockett",
+    "effect": "elit",
+    "origin": "American West",
+    "cost": "I",
+    "grit": 5,
+    "illustration": "Portrait_of_David_Crockett,_1831.jpg",
+    "summary": "A frontiersman, hunter, soldier, and politician who became a legendary figure known for his coonskin cap and bravery at the Alamo."
+  },
+  {
+    "num": 9,
+    "name": "Butch Cassidy",
+    "effect": "dsed",
+    "origin": "American West",
+    "cost": "I",
+    "grit": 6,
+    "illustration": "Butch_Cassidy_mugshot_detail.jpg",
+    "summary": "The charismatic leader of the Wild Bunch gang, known for their train and bank robberies across the West."
+  },
+  {
+    "num": 10,
+    "name": "The Sundance Kid",
+    "effect": "in",
+    "origin": "American West",
+    "cost": "I",
+    "grit": 4,
+    "illustration": "Sundance_Kid_and_wife.jpg",
+    "summary": "An outlaw and member of Butch Cassidy's Wild Bunch, often depicted as a skilled gunman."
+  },
+  {
+    "num": 11,
+    "name": "Joaquin Murrieta",
+    "effect": "urna",
+    "origin": "Mexican West",
+    "cost": "I",
+    "grit": 5,
+    "illustration": "joaquinmueirate.jpg",
+    "summary": "A controversial figure, considered by some a bandit and by others a Mexican resistance hero against Anglo-American oppression in California."
+  },
+  {
+    "num": 112,
+    "name": "Pancho Villa",
+    "effect": "et",
+    "origin": "Mexican West",
+    "cost": "I",
+    "grit": 5,
+    "illustration": "Pancho_villa_horseback.jpg",
+    "summary": "A revolutionary general in the Mexican Revolution, known for his military tactics and raids on the US border."
+  },
+  {
+    "num": 13,
+    "name": "Emiliano Zapata",
+    "effect": "rhoncus",
+    "origin": "Mexican West",
+    "cost": "I",
+    "grit": 6,
+    "illustration": "emilio_zapata.jpg",
+    "summary": "A leading figure in the Mexican Revolution, advocating for the rights of peasants and agrarian reform."
+  },
+  {
+    "num": 14,
+    "name": "Tiburcio Vasquez",
+    "effect": "sapien",
+    "origin": "Mexican West",
+    "cost": "I",
+    "grit": 4,
+    "illustration": "Tiburcio_Vasquez.jpg",
+    "summary": "A California bandit who, like Murrieta, was seen by some as a social bandit resisting American dominance."
+  }
+]

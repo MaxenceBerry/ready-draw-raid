@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+.backgroundCard{
+  background-image: url("/images/back_ground_card.png");
+  width: 300px;                 /* Or any initial width you prefer */
+  height: auto; /* important to allow height to be determined by padding */
+  aspect-ratio: 63 / 88;
+  background-size: contain;
+  align-items: center; /* added to center content vertically*/
+  justify-content: center; /* added to center content horizontally */
+  flex-direction: column;
+}
+
+.varela-round-regular {
+    font-family: "Varela Round", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.boxAlign{
+    width: 100%;                
+    height: 10%;
+    margin-left: 1%;
+    display: flex;
+}
+.typeCard{
+  margin-right: auto;
+  width: 80%;
+  display: flex;
+  align-items: center;}
+.typeCard p {
+  
+    font-size: 20px;
+    line-height: 1.4;
+    margin: 2%;
+    color: black;
+    font-family: "Varela Round", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+             1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+  }
+
+.gritCard{z-index: 2;
+    width: 20%;
+    }
+.gritCard p {
+  z-index: 2;
+      font-size: 64px;
+      line-height: 1.4;
+      color: black;
+      font-family: "Varela Round", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+             1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+    }
+.nameCard{
+      width: 75%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+.nameCard p {
+        font-size: 28px;
+        line-height: 100%;
+        margin: 0;
+        color: white;
+        font-family: "Handjet", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+.costCard{
+        width: 15%;
+        display: flex;
+      justify-content: center;
+        }
+.costCard p{font-size: 24px;
+  line-height: 1.4;
+  color: black;
+  font-family: "Varela Round", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+         1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;}
+        
+
+.imgCardContainer{border: 4px solid black;
+  margin-left: 1%;
+    width: 87%;                
+    height: 40%;
+    overflow: hidden;
+    z-index: 1;}
+.imgCard{object-fit: cover;
+        width: 100%;                
+        height: 100%;
+        z-index: 1;}
+.effectCard{
+    margin-left: 1%;
+    height: 32.5%;
+    overflow: hidden;
+    display: flex;
+    align-items: top;
+    justify-content: top;
+    padding: 10px;
+    word-wrap: break-word;
+    hyphens: auto;
+    width: 88%;
+}
+.effectCard p {
+    font-size: 16px;
+    line-height: 1;
+    margin: 0;
+    color: black;
+    font-family: "Handjet", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.bottomCard{
+  margin-top: 1%;
+    height: 5%;
+    width: 90%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    word-wrap: break-word;
+    hyphens: auto;
+}
+.bottomCard p {
+        font-size: 8px;
+        line-height: 1.4;
+        margin: 0;
+        color: black;
+        font-family: "Handjet", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }

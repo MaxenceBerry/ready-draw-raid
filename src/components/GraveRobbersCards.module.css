@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet&display=swap');
+:root {
+--sky-magenta: #D659ACff;
+--black-olive: #40473Fff;
+--platinum: #E4E5E6ff;}
+
+.contour{
+  border: 4px solid black;      
+  border-radius: 10px;          
+  width: 400px;                 /* Or any initial width you prefer */
+  /* height will be defined using padding-bottom and aspect-ratio */
+  height: auto; /* important to allow height to be determined by padding */
+  aspect-ratio: 65 / 88;
+  display: flex;
+}
+.greyBG{
+  background-color: var(--platinum);
+  width: 93%;
+  height: 100%; /* important to allow height to be determined by padding */
+  align-items: center; /* added to center content vertically*/
+  justify-content: center; /* added to center content horizontally */
+}
+.blackVerticalRect{background-color: black;
+    width: 2%;
+    height: 100%;
+}
+.sideBarColor{
+    background-color: rgb(200, 0, 200);
+    width: 5%;
+    height: 100%;
+
+}
+.boxAlign{
+    width: 100%;                
+    height: 10%;
+    display: flex;
+}
+.typeCard{background-color: rgb(0, 0, 255);
+    margin-left: auto;
+  margin-right: auto;
+  width: fit-content;  }
+.gritCard{background-color: rgb(255, 94, 0);
+    width: 15%;
+    }
+.nameCard{background-color: var(--black-olive);
+      width: 85%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+.nameCard p {
+        font-size: 200%;
+        line-height: 100%;
+        margin: 0;
+        color: white;
+        font-family: "Handjet", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+.costCard{background-color: rgb(255, 0, 0);
+        width: 15%;
+        }
+
+.imgCardContainer{background-color: rgb(0, 0, 0);
+    width: 100%;                
+    height: 40%;
+    overflow: hidden;}
+.imgCard{object-fit: cover;
+        width: 100%;                
+        height: 100%;
+        }
+.effectCard{
+    background-color: rgb(200, 200, 200);
+    height: 30%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    word-wrap: break-word;
+    hyphens: auto;
+
+}
+.effectCard p {
+    font-size: 16px;
+    line-height: 1.4;
+    margin: 0;
+    color: black;
+    font-family: "Handjet", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.bottomCard{
+    height: 5%;
+    background: #ffffff;
+    background: linear-gradient(270deg,rgba(255, 255, 255, 1) 0%, rgba(200, 200, 200, 1) 50%, rgba(100, 100, 100, 1) 100%);
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    word-wrap: break-word;
+    hyphens: auto;
+}
+.bottomCard p {
+        font-size: 10px;
+        line-height: 1.4;
+        margin: 0;
+        color: black;
+        font-family: "Handjet", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+.bottomRectBlack{background-color: black;
+    width: 100%;
+    height: 1%;}
