@@ -18,7 +18,7 @@ function SpinBox() {
     }
   };
   return (
-    <div className="col-sm-12 text-center">
+    <div className="col-sm-12 text-center bg-dark">
       <button
         type="button"
         onClick={removeOneCardToCollection}

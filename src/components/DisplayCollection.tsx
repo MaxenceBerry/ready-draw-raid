@@ -19,9 +19,9 @@ function DisplayCollection({ jsonToImport }: bddManagerProps) {
             // const pathImageCurrent = {"images/Pancho_villa_horseback.jpg", {legend.illustration}}
             const pathImageCurrent = `images/${legend.illustration}`;
             return (
-              <div className="col-sm-6 col-md-3 ratio-4x3">
+              <div className="col-sm-6 col-md-3 .col-lg-3 .col-xl-3 border border-light">
                 <div className="row">
-                  <div className="col-sm-12">
+                  <div className="col-sm-12 d-flex justify-content-center">
                     <FinalCard
                       imagePath={pathImageCurrent}
                       nameCard={legend.name}
