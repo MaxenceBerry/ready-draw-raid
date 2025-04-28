@@ -7,3 +7,5 @@ carte transparentes quand = 0
 
 ouverture booster donne 5 cartes
 Ajouter fait un +1 aux cartes
+ajouter un lancer de dé
+faire une radio box qui trie les cartes

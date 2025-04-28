@@ -121,7 +121,7 @@
     "summary": "A controversial figure, considered by some a bandit and by others a Mexican resistance hero against Anglo-American oppression in California."
   },
   {
-    "num": 112,
+    "num": 12,
     "name": "Pancho Villa",
     "type": "Legend",
     "effect": "et",
@@ -152,5 +152,192 @@
     "grit": 4,
     "illustration": "Tiburcio_Vasquez.jpg",
     "summary": "A California bandit who, like Murrieta, was seen by some as a social bandit resisting American dominance."
+  },
+  {
+    "num": 15,
+    "name": "MOON DUST",
+    "type": "Treasure",
+    "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
+    "origin": "Warcraft",
+    "cost": "O",
+    "grit": 1,
+    "illustration": "dustofappearance.gif",
+    "summary": "Under the moon light, all secrets shall be revealed."
+  },
+  {
+    "num": 16,
+    "name": "BAYOU'S JUICE",
+    "type": "Treasure",
+    "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
+    "origin": "Warcraft",
+    "cost": "O",
+    "grit": 1,
+    "illustration": "healingsalve.gif",
+    "summary": ""
+  },
+  {
+    "num": 17,
+    "name": "SKULL POTION",
+    "type": "Treasure",
+    "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
+    "origin": "Warcraft",
+    "cost": "O",
+    "grit": 1,
+    "illustration": "wandofnegation.gif",
+    "summary": ""
+  },
+  {
+    "num": 18,
+    "name": "WIDOW'S EYE",
+    "type": "Treasure",
+    "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
+    "origin": "Warcraft",
+    "cost": "O",
+    "grit": 1,
+    "illustration": "sentryward.gif",
+    "summary": ""
+  },
+  {
+    "num": 19,
+    "name": "RUNE STONE",
+    "type": "Treasure",
+    "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
+    "origin": "Warcraft",
+    "cost": "O",
+    "grit": 1,
+    "illustration": "stone.gif",
+    "summary": ""
+  },
+  {
+    "num": 20,
+    "name": "SOUL ROCK",
+    "type": "Treasure",
+    "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
+    "origin": "Warcraft",
+    "cost": "O",
+    "grit": 1,
+    "illustration": "healthstone.gif",
+    "summary": ""
+  },
+  {
+    "num": 21,
+    "name": "BOOK OF THE DEAD",
+    "type": "Treasure",
+    "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
+    "origin": "Warcraft",
+    "cost": "O",
+    "grit": 1,
+    "illustration": "bookofthedead.gif",
+    "summary": ""
+  },
+  {
+    "num": 22,
+    "name": "METAL TUMB",
+    "type": "Treasure",
+    "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
+    "origin": "Warcraft",
+    "cost": "O",
+    "grit": 1,
+    "illustration": "ankh.gif",
+    "summary": ""
+  },
+  {
+    "num": 23,
+    "name": "SHAMAN'S STICK",
+    "type": "Treasure",
+    "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
+    "origin": "Warcraft",
+    "cost": "O",
+    "grit": 1,
+    "illustration": "wand.gif",
+    "summary": ""
+  },
+  {
+    "num": 24,
+    "name": "CROW'S STAFF",
+    "type": "Treasure",
+    "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
+    "origin": "Warcraft",
+    "cost": "O",
+    "grit": 1,
+    "illustration": "wandofthewind.gif",
+    "summary": ""
+  },
+  {
+    "num": 25,
+    "name": "GOLDEN AMULET",
+    "type": "Relic",
+    "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
+    "origin": "Warcraft",
+    "cost": "O",
+    "grit": 1,
+    "illustration": "spellshieldamulet.gif",
+    "summary": ""
+  },
+  {
+    "num": 26,
+    "name": "MAGICAL PENDANT",
+    "type": "Treasure",
+    "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
+    "origin": "Warcraft",
+    "cost": "O",
+    "grit": 1,
+    "illustration": "pendantofenergy.gif",
+    "summary": ""
+  },
+  {
+    "num": 27,
+    "name": "FLUTE OF THE DAMNED",
+    "type": "Relic",
+    "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
+    "origin": "Warcraft",
+    "cost": "O",
+    "grit": 1,
+    "illustration": "alleriaflute.gif",
+    "summary": ""
+  },
+  {
+    "num": 28,
+    "name": "DEVIL'S DRUM",
+    "type": "Relic",
+    "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
+    "origin": "Warcraft",
+    "cost": "O",
+    "grit": 1,
+    "illustration": "ancientjanggo.gif",
+    "summary": ""
+  },
+  {
+    "num": 29,
+    "name": "MYSTHICAL DAGGER",
+    "type": "Relic",
+    "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
+    "origin": "Warcraft",
+    "cost": "O",
+    "grit": 1,
+    "illustration": "daggerofescape.gif",
+    "summary": ""
+  },
+  {
+    "num": 30,
+    "name": "HORN OF DOOM",
+    "type": "Relic",
+    "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
+    "origin": "Warcraft",
+    "cost": "O",
+    "grit": 1,
+    "illustration": "hornofdoom.gif",
+    "summary": ""
+  },
+  {
+    "num": 31,
+    "name": "ORB OF DANKNESS",
+    "type": "Relic",
+    "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
+    "origin": "Warcraft",
+    "cost": "O",
+    "grit": 1,
+    "illustration": "orbofdarkness.gif",
+    "summary": ""
   }
 ]

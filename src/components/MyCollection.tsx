@@ -14,16 +14,7 @@ function MyCollection() {
         >
           Load Collection
         </button>
-        <div>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
-          mattis rutrum interdum. Pellentesque hendrerit eros id gravida
-          malesuada. Proin ultricies orci ligula, eget sagittis dolor imperdiet
-          laoreet. Quisque ac pulvinar erat. Donec ullamcorper posuere ex, sed
-          rhoncus sem feugiat non. Nulla facilisi. Sed tristique aliquam rutrum.
-          Suspendisse in mattis ligula, quis cursus eros. Praesent accumsan
-          massa tortor, nec fermentum arcu porta sed. Etiam malesuada sodales
-          tristique.{" "}
-        </div>
+        <div></div>
         <DisplayCollection jsonToImport="legend"></DisplayCollection>
         <BDDManager jsonToImport="legend"></BDDManager>
       </div>

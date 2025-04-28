@@ -96,7 +96,7 @@
     height: 40%;
     overflow: hidden;
     z-index: 1;}
-.imgCard{object-fit: cover;
+.imgCard{object-fit: contain;
         width: 100%;                
         height: 100%;
         z-index: 1;}
