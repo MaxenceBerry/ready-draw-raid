@@ -10,11 +10,11 @@ num;name;type;effect;origin;cost;grit;illustration;summary
 9;Butch Cassidy;LEGEND;dsed;American West;I;6;Butch_Cassidy_mugshot_detail.jpg;The charismatic leader of the Wild Bunch gang, known for their train and bank robberies across the West.
 10;The Sundance Kid;LEGEND;in;American West;I;4;Sundance_Kid_and_wife.jpg;An outlaw and member of Butch Cassidy's Wild Bunch, often depicted as a skilled gunman.
 11;Joaquin Murrieta;LEGEND;urna;Mexican West;I;5;joaquinmueirate.jpg;A controversial figure, considered by some a bandit and by others a Mexican resistance hero against Anglo-American oppression in California.
-12;Pancho Villa;LEGEND;et;Mexican West;I;5;Pancho_villa_horseback.jpg;A revolutionary general in the Mexican Revolution, known for his military tactics and raids on the US border.
-13;Emiliano Zapata;LEGEND;rhoncus;Mexican West;I;6;emilio_zapata.jpg;A leading figure in the Mexican Revolution, advocating for the rights of peasants and agrarian reform.
+12;Pancho Villa;LEGEND;If Duel won : Draw 1 Card;Mexican West;I;5;Pancho_villa_horseback.jpg;A revolutionary general in the Mexican Revolution, known for his military tactics and raids on the US border.
+13;Emiliano Zapata;LEGEND;Silver Bullet : Gives +5 Grit to the Dueling Legend until Midnight.;Mexican West;I;6;emilio_zapata.jpg;A leading figure in the Mexican Revolution, advocating for the rights of peasants and agrarian reform.
 14;Tiburcio Vasquez;LEGEND;sapien;Mexican West;I;4;Tiburcio_Vasquez.jpg;A California bandit who, like Murrieta, was seen by some as a social bandit resisting American dominance.
-15;MOON DUST;TREASURE;Look at the top 3 cards of your town and put them back in the order you want.;Warcraft;O;1;dustofappearance.gif;Under the moon light, all secrets shall be revealed.
-16;BAYOU'S JUICE;TREASURE;Look at the top 3 cards of your town and put them back in the order you want.;Warcraft;O;1;healingsalve.gif;
+15;MOON DUST;TREASURE;Look at the top 3 cards of your town and put them back in the order you want.;Warcraft;O;5;dustofappearance.gif;Under the moon light, all secrets shall be revealed.
+16;BAYOU'S JUICE;TREASURE;Skullduggery : The thief loose one random Treasure in their Cylinder.;Warcraft;O;2;healingsalve.gif;
 17;SKULL POTION;TREASURE;Look at the top 3 cards of your town and put them back in the order you want.;Warcraft;O;1;wandofnegation.gif;
 18;WIDOW'S EYE;TREASURE;Look at the top 3 cards of your town and put them back in the order you want.;Warcraft;O;1;sentryward.gif;
 19;RUNE STONE;TREASURE;Look at the top 3 cards of your town and put them back in the order you want.;Warcraft;O;1;stone.gif;
