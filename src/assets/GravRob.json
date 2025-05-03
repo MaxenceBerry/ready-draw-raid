@@ -2,8 +2,8 @@
   {
     "num": 1,
     "name": "Billy the Kid",
-    "type": "Legend",
-    "effect": "Lorem",
+    "type": "LEGEND",
+    "effect": "Fait recharger en arrivant.",
     "origin": "American West",
     "cost": "I",
     "grit": 4,
@@ -13,7 +13,7 @@
   {
     "num": 2,
     "name": "Wyatt Earp",
-    "type": "Legend",
+    "type": "LEGEND",
     "effect": "ipsum",
     "origin": "American West",
     "cost": "I",
@@ -24,7 +24,7 @@
   {
     "num": 3,
     "name": "Doc Holliday",
-    "type": "Legend",
+    "type": "LEGEND",
     "effect": "dolor",
     "origin": "American West",
     "cost": "I",
@@ -35,7 +35,7 @@
   {
     "num": 4,
     "name": "Jesse James",
-    "type": "Legend",
+    "type": "LEGEND",
     "effect": "sit",
     "origin": "American West",
     "cost": "I",
@@ -46,7 +46,7 @@
   {
     "num": 5,
     "name": "Buffalo Bill Cody",
-    "type": "Legend",
+    "type": "LEGEND",
     "effect": "amet",
     "origin": "American West",
     "cost": "I",
@@ -57,7 +57,7 @@
   {
     "num": 6,
     "name": "Annie Oakley",
-    "type": "Legend",
+    "type": "LEGEND",
     "effect": "consectertu",
     "origin": "American West",
     "cost": "I",
@@ -68,7 +68,7 @@
   {
     "num": 7,
     "name": "Calamity Jane",
-    "type": "Legend",
+    "type": "LEGEND",
     "effect": "adipiscing",
     "origin": "American West",
     "cost": "I",
@@ -79,18 +79,18 @@
   {
     "num": 8,
     "name": "Davy Crockett",
-    "type": "Legend",
+    "type": "LEGEND",
     "effect": "elit",
     "origin": "American West",
     "cost": "I",
     "grit": 5,
     "illustration": "Portrait_of_David_Crockett,_1831.jpg",
-    "summary": "A frontiersman, hunter, soldier, and politician who became a legendary figure known for his coonskin cap and bravery at the Alamo."
+    "summary": "A frontiersman, hunter, soldier, and politician who became a LEGENDary figure known for his coonskin cap and bravery at the Alamo."
   },
   {
     "num": 9,
     "name": "Butch Cassidy",
-    "type": "Legend",
+    "type": "LEGEND",
     "effect": "dsed",
     "origin": "American West",
     "cost": "I",
@@ -101,7 +101,7 @@
   {
     "num": 10,
     "name": "The Sundance Kid",
-    "type": "Legend",
+    "type": "LEGEND",
     "effect": "in",
     "origin": "American West",
     "cost": "I",
@@ -112,7 +112,7 @@
   {
     "num": 11,
     "name": "Joaquin Murrieta",
-    "type": "Legend",
+    "type": "LEGEND",
     "effect": "urna",
     "origin": "Mexican West",
     "cost": "I",
@@ -123,7 +123,7 @@
   {
     "num": 12,
     "name": "Pancho Villa",
-    "type": "Legend",
+    "type": "LEGEND",
     "effect": "et",
     "origin": "Mexican West",
     "cost": "I",
@@ -134,7 +134,7 @@
   {
     "num": 13,
     "name": "Emiliano Zapata",
-    "type": "Legend",
+    "type": "LEGEND",
     "effect": "rhoncus",
     "origin": "Mexican West",
     "cost": "I",
@@ -145,7 +145,7 @@
   {
     "num": 14,
     "name": "Tiburcio Vasquez",
-    "type": "Legend",
+    "type": "LEGEND",
     "effect": "sapien",
     "origin": "Mexican West",
     "cost": "I",
@@ -156,7 +156,7 @@
   {
     "num": 15,
     "name": "MOON DUST",
-    "type": "Treasure",
+    "type": "TREASURE",
     "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
     "origin": "Warcraft",
     "cost": "O",
@@ -167,7 +167,7 @@
   {
     "num": 16,
     "name": "BAYOU'S JUICE",
-    "type": "Treasure",
+    "type": "TREASURE",
     "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
     "origin": "Warcraft",
     "cost": "O",
@@ -178,7 +178,7 @@
   {
     "num": 17,
     "name": "SKULL POTION",
-    "type": "Treasure",
+    "type": "TREASURE",
     "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
     "origin": "Warcraft",
     "cost": "O",
@@ -189,7 +189,7 @@
   {
     "num": 18,
     "name": "WIDOW'S EYE",
-    "type": "Treasure",
+    "type": "TREASURE",
     "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
     "origin": "Warcraft",
     "cost": "O",
@@ -200,7 +200,7 @@
   {
     "num": 19,
     "name": "RUNE STONE",
-    "type": "Treasure",
+    "type": "TREASURE",
     "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
     "origin": "Warcraft",
     "cost": "O",
@@ -211,7 +211,7 @@
   {
     "num": 20,
     "name": "SOUL ROCK",
-    "type": "Treasure",
+    "type": "TREASURE",
     "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
     "origin": "Warcraft",
     "cost": "O",
@@ -222,7 +222,7 @@
   {
     "num": 21,
     "name": "BOOK OF THE DEAD",
-    "type": "Treasure",
+    "type": "TREASURE",
     "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
     "origin": "Warcraft",
     "cost": "O",
@@ -233,7 +233,7 @@
   {
     "num": 22,
     "name": "METAL TUMB",
-    "type": "Treasure",
+    "type": "TREASURE",
     "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
     "origin": "Warcraft",
     "cost": "O",
@@ -244,7 +244,7 @@
   {
     "num": 23,
     "name": "SHAMAN'S STICK",
-    "type": "Treasure",
+    "type": "TREASURE",
     "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
     "origin": "Warcraft",
     "cost": "O",
@@ -255,7 +255,7 @@
   {
     "num": 24,
     "name": "CROW'S STAFF",
-    "type": "Treasure",
+    "type": "TREASURE",
     "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
     "origin": "Warcraft",
     "cost": "O",
@@ -266,7 +266,7 @@
   {
     "num": 25,
     "name": "GOLDEN AMULET",
-    "type": "Relic",
+    "type": "RELIC",
     "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
     "origin": "Warcraft",
     "cost": "O",
@@ -277,7 +277,7 @@
   {
     "num": 26,
     "name": "MAGICAL PENDANT",
-    "type": "Treasure",
+    "type": "TREASURE",
     "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
     "origin": "Warcraft",
     "cost": "O",
@@ -288,7 +288,7 @@
   {
     "num": 27,
     "name": "FLUTE OF THE DAMNED",
-    "type": "Relic",
+    "type": "RELIC",
     "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
     "origin": "Warcraft",
     "cost": "O",
@@ -299,7 +299,7 @@
   {
     "num": 28,
     "name": "DEVIL'S DRUM",
-    "type": "Relic",
+    "type": "RELIC",
     "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
     "origin": "Warcraft",
     "cost": "O",
@@ -310,7 +310,7 @@
   {
     "num": 29,
     "name": "MYSTHICAL DAGGER",
-    "type": "Relic",
+    "type": "RELIC",
     "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
     "origin": "Warcraft",
     "cost": "O",
@@ -321,7 +321,7 @@
   {
     "num": 30,
     "name": "HORN OF DOOM",
-    "type": "Relic",
+    "type": "RELIC",
     "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
     "origin": "Warcraft",
     "cost": "O",
@@ -332,7 +332,7 @@
   {
     "num": 31,
     "name": "ORB OF DANKNESS",
-    "type": "Relic",
+    "type": "RELIC",
     "effect": "Look at the top 3 cards of your town and put them back in the order you want.",
     "origin": "Warcraft",
     "cost": "O",

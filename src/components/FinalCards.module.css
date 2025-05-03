@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Handjet&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Geo:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
 
 :root {
   --sky-magenta: #D659ACff;
@@ -7,10 +10,10 @@
   --platinum: #E4E5E6ff;}
 
 .backgroundCard{
-  background-image: url("/images/back_ground_card.png");
+  background-image: url("/images/back_ground_card_screen.png");
   width: 300px;                 /* Or any initial width you prefer */
   height: auto; /* important to allow height to be determined by padding */
-  aspect-ratio: 63 / 88;
+  aspect-ratio: 62.436 / 88.002;
   background-size: contain;
   align-items: center; /* added to center content vertically*/
   justify-content: center; /* added to center content horizontally */
@@ -39,7 +42,7 @@
     line-height: 1.4;
     margin: 2%;
     color: black;
-    font-family: "Varela Round", sans-serif;
+    font-family: "Alfa Slab One", serif;
     font-weight: 400;
     font-style: normal;
     text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
@@ -53,10 +56,10 @@
   z-index: 2;
       font-size: 64px;
       line-height: 1.4;
-      color: black;
-      font-family: "Varela Round", sans-serif;
-      font-weight: 400;
-      font-style: normal;
+      color: goldenrod;
+      font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
       text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
              1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
     }
@@ -67,13 +70,13 @@
       justify-content: center;
 }
 .nameCard p {
-        font-size: 28px;
+        font-size: 18px;
         line-height: 100%;
         margin: 0;
-        color: white;
-        font-family: "Handjet", sans-serif;
-        font-weight: 400;
-        font-style: normal;
+        color: #181818;
+        font-family: "Alfa Slab One", serif;
+  font-weight: 400;
+  font-style: normal;
       }
 .costCard{
         width: 15%;
@@ -90,7 +93,7 @@
          1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;}
         
 
-.imgCardContainer{border: 2px solid black;
+.imgCardContainer{border: 2px solid #ef4009ff;
   margin-left: 1%;
     width: 87%;                
     height: 40%;
@@ -113,13 +116,14 @@
     width: 88%;
 }
 .effectCard p {
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1;
     margin: 0;
-    color: black;
-    font-family: "Handjet", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+    color: white;
+    font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
   }
 .bottomCard{
   margin-top: 1%;
@@ -136,7 +140,7 @@
         font-size: 8px;
         line-height: 1.4;
         margin: 0;
-        color: black;
+        color: white;
         font-family: "Handjet", sans-serif;
         font-weight: 400;
         font-style: normal;

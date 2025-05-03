@@ -9,3 +9,16 @@ ouverture booster donne 5 cartes
 Ajouter fait un +1 aux cartes
 ajouter un lancer de dé
 faire une radio box qui trie les cartes
+
+Bien réviser c'est quoi le JS, le lien avec le HTML
+
+
+Une fois l'app build, on compile et on a un package et on peut le mettre sur le web.
+en fait on a besoin d'une machine qui fait tourner le server
+ne pas utiliser AWS (facture surprise) et plutôt utiliser hostinger et avoir sa propre machine (Virtual Private Server).
+administration linux
+gestion de bdd postgre
+les microservices docker
+
+En mettant son githab sur ce truc, on a un site qui s'affiche https://vercel.com/
+next js

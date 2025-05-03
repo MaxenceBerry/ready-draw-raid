@@ -1,0 +1,30 @@
+LINK="18utL2LAItC9UgXVQ0MXy21KEbKS17zFWB8jHxmwZy4Q"
+
+; Settings
+UNIT=MM
+PAGE=297,21,PORTRAIT
+DISPLAY="tts_ready_draw_raid.png",,
+
+VISUAL=, 10, 10
+;ImageBG
+IMAGE=,"C:\Users\maxen\Documents\JavaScript\React\React Tuto\ready-draw-raid\public\images\back_ground_card.png",{-197/467}%,{197/700}%,{100/1}%,{69999/700}%
+IMAGE="1-{(ILLUSTRATION)}",[ILLUSTRATION],{988/467}%,{1926/175}%,{40508/467}%,{27591/700}%,0,PT
+;FontRounded
+FONT=Arial Rounded MT Bold,32,FT,#000000
+;TextType
+TEXT="1-{(TYPE)}",[TYPE],{1119/467}%,{263/350}%,{23448/467}%,{2173/350}%,LEFT,CENTER
+;TextGrit
+TEXT="1-{(GRIT)}",[GRIT],{36622/467}%,{237/140}%,{8760/467}%,{5169/350}%,CENTER,CENTER
+;FontPixel
+FONT=Bittypix Monospace,8,TF,#000000
+;TextEffect
+TEXT="1-{(EFFECT)}",[EFFECT],{1317/467}%,{619/10}%,{39981/467}%,{10569/350}%,LEFT,WORDWRAP
+;TextSummary
+TEXT="1-{(SUMMARY)}",[SUMMARY],{1317/467}%,{13157/140}%,{39981/467}%,{3687/700}%,LEFT,WORDWRAP
+;TextCost
+TEXT="1-{(COST)}",[COST],{790/467}%,{1801/35}%,{6125/467}%,{214/25}%,CENTER,CENTER
+;FontPixelWhite
+FONT=Bittypix Monospace,16,TF,#FFFFFF
+;TextName
+TEXT="1-{(NAME)}",[NAME],{8101/467}%,{1801/35}%,{32999/467}%,{214/25}%,CENTER,CENTER
+ENDVISUAL
